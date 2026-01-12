@@ -1,0 +1,31 @@
+/* Navbar */
+
+
+#navbar{
+    height:60px;
+    background-color: #0f0101;
+    
+}
+a{
+    text-decoration: none;
+    margin-right: 200px;
+    color: white;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+#logo{
+    color: #f08804;
+    font-size:25px;
+    margin-right: 200px;
+}
+
+/* Content */
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+}
