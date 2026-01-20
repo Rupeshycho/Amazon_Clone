@@ -6,10 +6,13 @@ div{
     width: 100px;
     display: inline-block;
     border: 2px solid black;
+
 }
 #container{
     width: 800px;
     height: 200px;
+    display: flex;
+    flex-direction: column;
 }
 #box1{
     background-color:aqua ;
@@ -18,12 +21,12 @@ div{
     background-color: pink;
 }
 #box3{
-    background-color: brown;
+    background-color: darkkhaki;
 }
 #box4{
-    background-color: red;
+    background-color: indianred;
 }
 #box5{
-    background-color: blue;
+    background-color: slateblue;
 }
 
