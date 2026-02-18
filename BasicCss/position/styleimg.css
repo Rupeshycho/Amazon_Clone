@@ -1,0 +1,18 @@
+div{
+    background-color: aqua;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#box1{
+    background-image:url("/BasicCss/position/cat_photo.png") ;
+    background-size: cover;
+    
+}
+#box3{
+    background-image:url("/BasicCss/position/cat_photo.png") ;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

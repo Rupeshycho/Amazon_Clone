@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    margin-left: 0px;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f0101;
+    display: flex;
+    align-items: center;
+    
+}
+#nav-items{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+    margin-right: 200px;
+}
+button{
+    color: #f08804;
+    CURSOR: POINTER;
+    width: 80px;
+}
+
+#nav-items  #logo{
+    color: orange;
+    font-size: 25px;
+    margin-right: 200px;
+    
