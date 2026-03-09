@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-self: start;
+    
+}   
+=======
+>>>>>>> 68026fa029b4f7024080da8e29ef07ed7163abf9
 div{
     background-color:aqua;
 }
@@ -6,6 +16,10 @@ div{
     width: 100px;
     border: 2px solid black;
     display: inline-block;
+<<<<<<< HEAD
+    
+=======
+>>>>>>> 68026fa029b4f7024080da8e29ef07ed7163abf9
 }
 #box1{
     position:static;

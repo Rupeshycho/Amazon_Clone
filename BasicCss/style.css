@@ -2,10 +2,25 @@
     padding: 0;
     margin: 0;
     color: white;
+<<<<<<< HEAD
+    margin-left: 0px;
+=======
+>>>>>>> 68026fa029b4f7024080da8e29ef07ed7163abf9
 }
 #navbar{
     height: 60px;
     background-color: #0f0101;
+<<<<<<< HEAD
+    display: flex;
+    align-items: center;
+    
+}
+#nav-items{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+=======
+>>>>>>> 68026fa029b4f7024080da8e29ef07ed7163abf9
 }
 a{
     text-decoration: none;
@@ -14,6 +29,16 @@ a{
 button{
     color: #f08804;
     CURSOR: POINTER;
+<<<<<<< HEAD
+    width: 80px;
+}
+
+#nav-items  #logo{
+    color: orange;
+    font-size: 25px;
+    margin-right: 200px;
+    
+=======
 }
 
 #logo{
@@ -21,3 +46,4 @@ button{
     font-size: 25px;
     margin-right: 200px;
 }
+>>>>>>> 68026fa029b4f7024080da8e29ef07ed7163abf9
