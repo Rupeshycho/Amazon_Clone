@@ -12,7 +12,7 @@ div{
 }
 
 
-
+/* changes on 600px and greater than 600px  */
 @media(min-width: 600px) {
     div{
         background-color: green;

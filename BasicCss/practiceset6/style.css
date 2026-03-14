@@ -1,5 +1,5 @@
 .navbar ul{
-    background-color: pink;
+    background-color: rgb(192, 255, 240);
     display: flex;
     justify-content: space-evenly; 
 }
@@ -7,12 +7,14 @@
 
 a{
     text-decoration: none;
-    color: red;
+    color: rgb(6, 78, 140);
+    /* background-color: aquamarine; */
 
 }
 
 li{
-    list-style: none;
+    /* list-style: none; */
+    list-style-type: none;
 }
 .outer{
     height: 400px;
@@ -26,5 +28,12 @@ li{
     height: 100px;
     width: 100px;
     background-color: darkorchid;
+
+
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
     /* align-self: flex-start; */
 }
